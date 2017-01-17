@@ -1,0 +1,16 @@
+{
+  "name": "module_madness",
+  "version": "1.0.0",
+  "description": "\"module madness challenge\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "module",
+    "madness"
+  ],
+  "author": "ethancoyne01@gmail.com",
+  "license": "ISC"
+}
